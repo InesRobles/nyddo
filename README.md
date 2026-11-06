@@ -28,3 +28,9 @@ Todos los públicos
 - 💸 **Gastos y suscripciones:** control de pagos recurrentes, presupuestos y gastos del hogar, registro de reparaciones, facturas, garantías y revisiones.
 - 🛒 **Lista de la compra:** gestión compartida de productos pendientes.
 - 📅 **Calendario y recordatorios:** avisos de tareas, pagos y revisiones próximas.
+
+## 📚Matriz DAFO
+
+A continuación, se muestra el análisis DAFO de Nyddo:
+
+![Matriz DAFO de Nyddo](img/Matriz_DAFO_Nyddo.png)
