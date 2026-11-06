@@ -4,12 +4,6 @@
 ## 🎨 Diseño
 -  *Figma:* https://www.figma.com/design/AqS6zjNx8ZfanC0OQN8dcD/Sin-t%C3%ADtulo?t=a71z85ooAq0tr6HI-1.
 
-## 👤 Participantes del grupo
-* *Inés Robles Zamora*
-* *Alba Cantillo Ortiz*
-* *Marta Ramirez López* 
-* *Asignatura:* Proyecto Intermodular
-
 ## 🚨 Problemas que resuelve
 
 Conflictos en las unidades domesticas por realización de tareas, gastos, fechas importantes, etc.
@@ -34,3 +28,11 @@ Todos los públicos
 A continuación, se muestra el análisis DAFO de Nyddo:
 
 ![Matriz DAFO de Nyddo](img/Matriz_DAFO_Nyddo.png)
+
+## 👤 Participantes del grupo
+* **Inés Robles Zamora**
+* **Alba Cantillo Ortiz**
+* **Marta Ramirez López** 
+
+## 📖 Asignatura:
+* ** Proyecto Intermodular
