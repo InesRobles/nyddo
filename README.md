@@ -1,4 +1,3 @@
-# 🏡 Nyddo
 
 **Nyddo** es una aplicación de gestión integral del hogar que permite organizar las tareas domésticas, controlar los gastos y gestionar el mantenimiento de la vivienda desde un único lugar. Para uso individual o compartido.
 
